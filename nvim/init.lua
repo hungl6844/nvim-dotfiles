@@ -96,4 +96,4 @@ vim.cmd.colorscheme "catppuccin"
     capabilities = capabilities
   }
 
-  vim.opt.fileformats=unix,dos
+  vim.opt.fileformats=unix
